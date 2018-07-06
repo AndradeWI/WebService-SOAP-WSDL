@@ -18,3 +18,13 @@ utilizando outra linguagem de programação.
 
 ## Aplicação cliente desenvolvida em PHP __SOAPClient
 
+#### Descrição:
+
++ JavaScript;
++ CSS;
++ HTML5;
++ Pure.CSS: [Pure.CSS](https://purecss.io/ "Clique para conferir!")
++ PHP 7;
++ Jquery: [Jquery](https://jquery.com/ "Clique para conferir!")
+
+
