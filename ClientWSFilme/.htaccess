@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  RewriteRule ^index/?$ index.php [NC,L]
+
+  RewriteRule ^filme/?$ index.php [NC,L]
+
+  RewriteRule ^excluir/?$ controller/controllerfilme.php [NC,L]
+
+  RewriteRule ^busca/?$ index.php [NC,L]
+
+  RewriteRule ^salvar/?$ controller/controllerfilme.php [NC,L]
+
+
+</IfModule>
