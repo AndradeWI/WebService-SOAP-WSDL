@@ -1,4 +1,4 @@
-# WebService-SOAP-WSDL
+# WebService SOAP-WSDL Linguagem java 
 Provendo Serviços com JAX-WS, mapeamento JPA com Hibernate,  GlassFish Server 4.1.1
 
 # Mini-Projeto – Serviço de Gerenciamento de Filmes
